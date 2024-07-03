@@ -9,7 +9,7 @@ Software engineer in Test | Cypress Ambassador
 - Phone: +44 7857 006916
 - E-mail: wavenlondon@gmail.com
 - Telegram: @qa_tester22
-
+- LinkedIn: https://www.linkedin.com/in/laura-bright-qa/
 ---
 
 ## About Myself:
