@@ -32,7 +32,7 @@ Cypress ambassador | Software Automation Quality Assurance Engineer | JavaScript
 
 ---
 
-**Задача**
+**Task**
 Пользователь может выбрать количества картинок на веб-сайте от 5 до 10 (пагинация)
 
 ```
