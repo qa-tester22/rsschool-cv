@@ -6,9 +6,9 @@ Software engineer in Test | Cypress Ambassador
 
 ## Contact information:
 
-- Phone: +44 
+- Phone: +44 7857 006916
 - E-mail: wavenlondon@gmail.com
-- Telegram: @
+- Telegram: @qa_tester22
 
 ---
 
@@ -24,7 +24,7 @@ Cypress ambassador | Software Automation Quality Assurance Engineer | JavaScript
 - Cypress | Jest | 
 - Git | GitHub | Docker | Jenkins
 - SQL | PosgeSQL | non-SQL | MySQL
-- Percy | Chals 
+- Percy | Charles 
 
 ---
 
@@ -168,5 +168,5 @@ Cypress ambassador | Software Automation Quality Assurance Engineer | JavaScript
 ## Languages
 
 - Russian - native speaker
-- tech languge 
+- some tech languges 
 - English - B2 | C1
